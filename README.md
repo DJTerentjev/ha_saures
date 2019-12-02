@@ -28,12 +28,12 @@ saures:
   
 **username:**\
   _(string) (Required)_\
-  User name (Saures server).\
+  User name (Saures server).
   
   **password:**\
   _(string) (Required)_\
-  Password name (Saures server).\
+  Password name (Saures server).
   
   <p align="center">* * *</p>
-Saures server responds very slowly. Therefore, you will most likely see Home Assistant warnings that setup and update of platform is taking more then 10 secods. This is my first attempt at programming and I cannot guarantee stable operation.
+Saures server responds very slowly. Therefore, you will most likely see Home Assistant warnings that setup and updates of platform are taking more then 10 secods. This is my first attempt at programming and I cannot guarantee stable operation.
 <p align="center"><br>
